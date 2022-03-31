@@ -1,0 +1,2 @@
+﻿  Source.cpp
+d:\programming\receipt lottery\receipt\receipt\source.cpp(295): fatal error C1083: 無法開啟包含檔案: 'opencv2/imgproc.hpp': No such file or directory
